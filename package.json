@@ -1,0 +1,21 @@
+{
+  "name": "atmois-catppuccin-macchiato-theme",
+  "displayName": "Atmois Catppuccin Macchiato Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atmois Catppuccin Macchiato Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atmois Catppuccin Macchiato Theme-color-theme.json"
+      }
+    ]
+  }
+}
